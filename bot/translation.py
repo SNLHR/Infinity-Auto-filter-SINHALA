@@ -65,7 +65,7 @@ I am a filter bot with advanced features currenty workig for any group. මේ�
 
 ○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 🔐
 
-○ ᴄʀᴇᴀᴛᴏʀ : [ᴅᴏᴄ ᴅx](https://t.me/dx_doc)
+○ ᴄʀᴇᴀᴛᴏʀ : [SNL HR](https://t.me/SNL HR)
 
-**[ɪɴғɪɴɪᴛʏ ʙᴏᴛs](https://t.me/bots_infinity)**
+**[YT WADDA](https://t.me/YT_wadda)**
 """
